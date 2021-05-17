@@ -1,1 +1,1 @@
-# skccdemo
+# skccdemo sample
